@@ -21,3 +21,18 @@ Installation
 
 Install SimBank by cloning this repository
 
+Contribute
+----------
+
+- Issue Tracker: github.com/solasamuel/py-2021-simbank/issues
+- Source Code: github.com/solasamuel/py-2021-simbank
+
+Support
+-------
+
+If you are having issues, please let us know at s.samuel3@yahoo.com
+
+License
+-------
+
+The project is licensed under the BSD license.
