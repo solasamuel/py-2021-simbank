@@ -16,6 +16,25 @@ Features
 - Search friends
 - Check recent transactions
 
+
+Screenshots
+--------
+
+- Login
+
+![Algorithm schema](./screenshots/screenshot1.png)
+
+- Home
+
+![Algorithm schema](./screenshots/screenshot2.png)
+- Profile
+
+![Algorithm schema](./screenshots/screenshot3.png)
+
+- Transfer amount
+
+![Algorithm schema](./screenshots/screenshot4.png)
+
 Installation
 ------------
 
